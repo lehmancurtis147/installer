@@ -1,0 +1,88 @@
+{
+    "latest": {
+        "U50A_ATT": [
+            {
+                "version": "TWRP",
+                "variant": "teamWin",
+                "thumnail": "/thumnails/twrp.png",
+                "url": "https://dl.twrp.me/U50A_ATT/twrp-3.5.2_9-0-U50A_ATT.img"
+            },
+            {
+                "version": "OFRP",
+                "variant": "orangeFox",
+                "thumnail": "/thumnails/ofrp.png",
+                "url": "https://drive.google.com/file/d/1jmnWgckx8AtCUsGVOKD87BxL3luJHWRL/view?usp=sharing"
+            },
+            {
+                "version": "PBRP",
+                "variant": "pitchBlack",
+                "thumnail": "/thumnails/pbrp.png",
+                "url": "https://drive.google.com/file/d/1shZWuV338sk0nvNow3YSnE_iY6m0fcgb/view?usp=sharing"
+            },
+            {
+                "version": "SHRP",
+                "variant": "skyHawk",
+                "thumnail": "/thumnails/shrp.png",
+                "url":"https://drive.google.com/file/d/1nWZpr5e3E0v0Eq1rvFPONf3hNgK_Jgap/view?usp=sharing"
+            },
+            {
+                "version": "NSRP",
+                "variant": "nusantara",
+                "thumnail": "/thumnails/nsrp.png",
+                "url":"https://drive.google.com/file/d/19ulsRe4unDCmIgi2rR7kpvdgE4tWcXOS/view?usp=sharing"
+            },
+            {
+                "version": "DSRP",
+                "variant": "darkStar",
+                "thumnail": "/thumnails/dsrp.png",
+                "url":"https://drive.google.com/file/d/16tnpH59LrFEOAm1-EJjnX4xbCwE7wME-/view?usp=sharing"
+            },
+            {
+                "version": "RWRP",
+                "variant": "redWolf",
+                "thumnail": "/thumnails/rwrp.png",
+                "url":"https://drive.google.com/file/d/1RUZQTTB1raxl2-e1BPlgzcHbx7upth89/view?usp=sharing"
+            },
+            {
+                "version": "BKRP",
+                "variant": "batik",
+                "thumnail": "/thumnails/bkrp.png",
+                "url": "https://drive.google.com/file/d/1xjTDSoUa85q3JSJk9X8JeLZ6RQ2hAXuE/view?usp=sharing"
+            }
+        ],
+        "simba6_cricket": [
+            {
+                "version": "3.1.1",
+                "variant": "teamWin",
+                "url": "/releases/files/recovery-twrp_idol5-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "orangeFox",
+                "url": "/releases/files/recovery-ofrp_idol5-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "pitchBlack",
+                "url": "/releases/files/recovery-pbrp_idol5-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "skyHawk",
+                "url":"/releases/files/recovery-shrp_idol5-custom_1.img"
+            }
+        ],
+        "idol4": [
+            {
+                "version": "3.1.1",
+                "variant": "teamWin",
+                "url": "/releases/files/recovery-twrp_idol4-custom_1.img"
+            },
+            {
+                "version": "3.1.1",
+                "variant": "orangeFox",
+                "url": "/releases/files/recovery-ofrp_idol4-custom_1.img"
+            }
+        ]
+    }
+}
